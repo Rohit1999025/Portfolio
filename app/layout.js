@@ -7,7 +7,7 @@ import Technologies from "./components/Technologies";
 import "./globals.css"; // Optional: If you have global styles
 
 export const metadata = {
-  title: "My App",
+  title: "Rohit Chauhan | Portfolio",
   description: "This is the layout for my app.",
 };
 
